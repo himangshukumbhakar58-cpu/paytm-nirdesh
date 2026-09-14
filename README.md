@@ -1,88 +1,53 @@
-# Paytm Nirdesh
+# 🚀 Paytm Nirdesh
 
 ### Your AI Guide for Smarter Financial Decisions
 
-Paytm Nirdesh is an AI-powered financial journey assistant designed to make financial services simpler, faster, and more human.
+> **🌐 LIVE DEMO — TRY PAYTM NIRDESH NOW**
 
-It helps users understand, evaluate, and navigate financial journeys across:
+# 👉 [🔵 OPEN PAYTM NIRDESH](https://paytmnirdesh.vercel.app/)
 
-- Lending
-- Insurance
-- Fintech
+---
 
-## 🚀 Live Demo
+Paytm Nirdesh is an AI-powered financial journey assistant designed to make **Lending, Insurance and Fintech** simpler, faster and more human.
 
-Try the working prototype:
+## 💡 What is Paytm Nirdesh?
 
-PAYTM NIRDESH — LIVE DEMO
-https://paytmnirdesh.vercel.app/
+Nirdesh helps users:
 
-## 💡 Problem
+**Understand → Assess → Evaluate → Explain → Documents → Act**
 
-Financial journeys can often be complex and difficult to navigate. Users may struggle to:
-
-- Understand financial products
-- Compare loan repayment options
-- Understand insurance coverage and requirements
-- Prepare the right documents
-- Know what action to take next
-
-## 💡 Solution
-
-Paytm Nirdesh acts as an AI-powered guide throughout the complete financial journey.
-
-### Understand → Assess → Evaluate → Explain → Documents → Act
-
-Instead of simply answering questions, Nirdesh helps users move from a financial query to a clear next action.
+Instead of simply answering financial questions, Nirdesh guides users through the **complete financial journey**.
 
 ## 🏦 Key Journeys
 
-### 1. Lending
+### 💰 Lending
+- Loan requirement understanding
+- Affordability assessment
+- Indicative EMI scenarios
+- Repayment comparison
+- Document guidance
+- Next-step navigation
 
-Nirdesh helps users:
+### 🛡️ Insurance
+- Policy explanation
+- Coverage understanding
+- Waiting periods & exclusions
+- Claim document guidance
+- Next-step assistance
 
-- Capture loan requirements
-- Understand affordability
-- Explore indicative repayment scenarios
-- Compare EMI options
-- Understand repayment trade-offs
-- Identify required documents
-- Navigate to the next step
-
-### 2. Insurance
-
-Nirdesh helps users:
-
-- Understand policy coverage
-- Simplify policy language
-- Identify waiting periods and exclusions
-- Prepare claim-related documents
-- Understand the next steps in a claim journey
-
-### 3. Fintech
-
-Nirdesh helps users:
-
-- Understand spending patterns
-- Identify major spending categories
-- Generate financial insights
-- Create actionable financial plans
+### 📊 Fintech
+- Spending analysis
+- Category insights
+- Financial patterns
+- Personalized financial planning
 
 ## ⭐ USP
 
 ### Not Just a Chatbot. A Complete Financial Journey.
 
-Traditional approach:
+**Question → Understand → Assess → Evaluate → Explain → Documents → Action**
 
-Question → Answer
-
-Nirdesh:
-
-Question → Understand → Assess → Evaluate → Explain → Documents → Action
-
-The core innovation is guiding users through the complete financial journey instead of providing isolated answers.
-
-## 🛠️ Technology Stack
+## 🛠️ Technology
 
 - HTML5
 - CSS3
@@ -96,34 +61,16 @@ The core innovation is guiding users through the complete financial journey inst
 ## 🎯 Impact
 
 ### For Customers
-
 - Better financial clarity
 - Faster decision-making
 - Reduced complexity
-- Less documentation confusion
-- Clearer next steps
+- Clear next steps
 
 ### For Financial Partners
-
 - Reduced journey friction
 - Better customer experience
 - Improved journey completion
-- Increased opportunities for product discovery
-
-## 💼 Business Model
-
-Nirdesh can support a partner-led financial ecosystem through:
-
-- Financial product conversion
-- Reduced customer drop-offs
-- Cross-product discovery
-- Future premium AI assistance
-
-## ⚠️ Disclaimer
-
-Paytm Nirdesh is a prototype created for the Paytm Build for India AI Hackathon.
-
-The prototype provides educational and indicative guidance and does not make final lending, insurance, credit, coverage, or claim decisions.
+- Increased product discovery
 
 ## 🏆 Hackathon
 
@@ -133,8 +80,12 @@ The prototype provides educational and indicative guidance and does not make fin
 
 **Focus:** Making Insurance, Lending and Fintech simpler, faster and more human.
 
-## 👥 Team
+## ⚠️ Disclaimer
 
-### Team stormX
+Paytm Nirdesh is a prototype created for the hackathon. It provides educational and indicative guidance and does not make final lending, insurance, credit, coverage, or claim decisions.
 
-Built for the Paytm Build for India AI Hackathon.
+---
+
+### 🚀 Experience the Prototype
+
+**👉 [OPEN LIVE DEMO — PAYTM NIRDESH](https://paytmnirdesh.vercel.app/)**
