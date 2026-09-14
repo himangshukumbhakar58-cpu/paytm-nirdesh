@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Paytm Nirdesh — Financial AI Guide</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar">
+      <div class="brand"><span class="brand-mark">P</span><span>paytm</span><i></i><b>Nirdesh</b></div>
+      <button class="new-chat" id="newChat"><span>＋</span> New conversation</button>
+      <nav>
+        <p class="nav-label">WORKSPACE</p>
+        <button class="nav-item" data-journey="lending"><span>⌂</span> Overview</button>
+        <p class="nav-label journey-label">YOUR JOURNEYS</p>
+        <button class="nav-item journey-nav active" data-journey="lending"><span>◈</span> Lending <em>01</em></button>
+        <button class="nav-item journey-nav" data-journey="insurance"><span>♢</span> Insurance</button>
+        <button class="nav-item journey-nav" data-journey="fintech"><span>◌</span> Fintech insights</button>
+        <p class="nav-label bottom-label">ACCOUNT</p>
+        <button class="nav-item" id="docsButton"><span>▣</span> My documents <em>2</em></button>
+        <button class="nav-item"><span>⚙</span> Settings</button>
+      </nav>
+      <div class="profile"><div class="avatar">HS</div><div><strong>Himangshu S.</strong><small>Free workspace</small></div><span>⌄</span></div>
+    </aside>
+
+    <main class="main-panel">
+      <header class="topbar"><div class="crumb"><span id="crumbIcon">◈</span><span id="crumbName">Lending journey</span><b>•</b><small>In progress</small></div><div class="top-actions"><button class="icon-btn" aria-label="Notifications">♧</button><button class="help">? <span>Help centre</span></button></div></header>
+      <section class="conversation" id="conversation"></section>
+      <form class="composer" id="composer"><button type="button" class="attach" id="uploadButton" title="Upload a document">＋</button><input id="messageInput" autocomplete="off" placeholder="Ask Nirdesh anything about your finances…" /><button class="send" aria-label="Send message">↑</button></form>
+      <p class="disclaimer">Nirdesh provides educational, indicative guidance. It does not make lending, coverage, or claim decisions.</p>
+    </main>
+
+    <aside class="right-panel">
+      <div class="journey-header"><div><p class="eyebrow">YOUR JOURNEY</p><h2 id="journeyTitle">Loan planning</h2></div><button class="more">•••</button></div>
+      <div class="progress-wrap"><div class="progress-label"><span id="progressText">Step 2 of 5</span><span id="progressPct">40%</span></div><div class="progress"><i id="progressBar"></i></div></div>
+      <div class="steps" id="steps"></div>
+      <div class="side-card" id="sideCard"></div>
+      <div class="support"><span class="support-icon">✦</span><div><strong>Need a human perspective?</strong><p>Connect with a financial expert.</p><button>Talk to an expert <span>→</span></button></div></div>
+    </aside>
+  </div>
+  <input type="file" id="fileInput" hidden accept=".pdf,.jpg,.jpeg,.png" />
+  <script src="app.js"></script>
+</body>
+</html>
